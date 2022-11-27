@@ -1,6 +1,6 @@
 [
     {
-        "name": "Anarcho-Communism",
+        "name": "无政府共产主义",
         "stats": {
             "radi": 0,
             "coop": 75,
@@ -12,7 +12,7 @@
         }
     },
     {
-        "name": "Social Liberalism",
+        "name": "社会自由主义",
         "stats": {
             "radi": 100,
             "coop": 50,
@@ -24,7 +24,7 @@
         }
     },
     {
-        "name": "Mutualism",
+        "name": "互助主义",
         "stats": {
             "radi": 0,
             "coop": 25,
@@ -36,7 +36,7 @@
         }
     },
     {
-        "name": "Utopian Socialism",
+        "name": "乌托邦社会主义",
         "stats": {
             "radi": 10,
             "coop": 25,
@@ -48,7 +48,7 @@
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "社会民主主义",
         "stats": {
             "radi": 75,
             "coop": 50,
@@ -60,7 +60,7 @@
         }
     },
     {
-        "name": "Social Corporatism",
+        "name": "社会社团主义",
         "stats": {
             "radi": 75,
             "coop": 50,
@@ -72,7 +72,7 @@
         }
     },
     {
-        "name": "Democatic Confederalism",
+        "name": "民主邦联主义",
         "stats": {
             "radi": 10,
             "coop": 0,
@@ -84,7 +84,7 @@
         }
     },
     {
-        "name": "Zapatism",
+        "name": "萨帕塔主义",
         "stats": {
             "radi": 0,
             "coop": 75,
@@ -96,7 +96,7 @@
         }
     },
     {
-        "name": "National Anarchism",
+        "name": "民族无政府主义",
         "stats": {
             "radi": 0,
             "coop": 50,
@@ -108,7 +108,7 @@
         }
     },
     {
-        "name": "Council Communism",
+        "name": "议会共产主义",
         "stats": {
             "radi": 35,
             "coop": 90,
@@ -120,7 +120,7 @@
         }
     },
     {
-        "name": "Libertarian socialism",
+        "name": "自由意志社会主义",
         "stats": {
             "radi": 25,
             "coop": 50,
@@ -132,7 +132,7 @@
         }
     },
     {
-        "name": "Libertarian Market Socialism",
+        "name": "自由意志市场社会主义",
         "stats": {
             "radi": 25,
             "coop": 50,
@@ -144,7 +144,7 @@
         }
     },
     {
-        "name": "Liberal Socialism",
+        "name": "自由社会主义",
         "stats": {
             "radi": 50,
             "coop": 75,
@@ -156,7 +156,7 @@
         }        
     },
     {
-        "name": "Religious Socialism",
+        "name": "宗教社会主义",
         "stats": {
             "radi": 25,
             "coop": 60,
