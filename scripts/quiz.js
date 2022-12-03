@@ -24,7 +24,7 @@ function load_questions(data) {
 
 function init_question() {
     document.getElementById("question-text").innerHTML = questions[qn].question;
-    document.getElementById("question-number").innerHTML = "Question " + (qn + 1) + " of " + (questions.length);
+    document.getElementById("question-number").innerHTML = "第 " + (qn + 1) + "题，共" + (questions.length) + "题";
     if (prev_answer == null) {
         document.getElementById("back_button").style.display = 'none';
         document.getElementById("back_button_off").style.display = 'block';
