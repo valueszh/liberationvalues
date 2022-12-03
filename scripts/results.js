@@ -67,13 +67,13 @@ function parse_ideology(ideologies){
     setBarValue("markets", markets)
     setBarValue("planning", planning)
 
-    const radiArray = ["Social Liberal","Social Democrat","Labourism","Liberal Socialism","Democratic Socialism","Libertarian Socialism","Anarchism"]
-    const coopArray = ["Left Synthesis","Left Unity","Left Co-Operation","Generalist","Libertarian Co-operation","Libertarian Unity","Libertarian Synthesis"]
-    const ownrArray = ["Extremely Centralized","Centralized","More Central","Balanced","More Decentral","Decentralized","Extremely Decentralized"]
-    const globArray = ["Isolationist","Nationalist","Internalist","Balanced","Internationalist","Interventionalist","Globalist"]
-    const progArray = ["Traditionalist","Very Conservative","Conservative","Balanced","Progressive","Very Progressive","Liberationist"]
-    const reblArray = ["Extreme Revolutionary","Revolutionary","Striker","Centrist","Pacifist","Reformism","Constitutionalism"]
-    const markArray = ["Very Free Market","Free Marketism","Slightly Unregulated","Regulatory","Nationalized","Planning","Full Planning"]
+    const radiArray = ["社会自由主义","社会民主主义","劳工主义","自由社会主义","民主社会主义","自由意志社会主义","无政府主义"]
+    const coopArray = ["左翼融合","左翼联合","左翼合作","一般","自由意志派合作","自由意志派联合","自由意志派融合"]
+    const ownrArray = ["极端集中","集中","相对集中","平衡","相对分散","分散","极端分散"]
+    const globArray = ["孤立主义","民族主义","国内主义","平衡","国际主义","干预主义","全球主义"]
+    const progArray = ["传统主义","非常保守主义","保守主义","平衡","进步主义","非常进步主义","解放主义"]
+    const reblArray = ["极端革命派","革命派","罢工派","中间派","和平派","改革派","Constitutionalism"]
+    const markArray = ["非常自由市场","自由市场","轻微反管制","监管主义","国有化","计划经济","完全计划经济"]
 
     document.getElementById("radicality-label").innerHTML = setLabel(moderate, radiArray)
     document.getElementById("co-operation-label").innerHTML = setLabel(leftunity, coopArray)
