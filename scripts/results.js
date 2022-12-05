@@ -72,7 +72,7 @@ function parse_ideology(ideologies){
     const ownrArray = ["极端集中","集中","相对集中","平衡","相对分散","分散","极端分散"]
     const globArray = ["孤立主义","民族主义","国内主义","平衡","国际主义","干预主义","全球主义"]
     const progArray = ["传统主义","非常保守主义","保守主义","平衡","进步主义","非常进步主义","解放主义"]
-    const reblArray = ["极端革命派","革命派","罢工派","中间派","和平派","改革派","Constitutionalism"]
+    const reblArray = ["极端革命派","革命派","罢工派","中间派","和平派","改良派","宪政派"]
     const markArray = ["非常自由市场","自由市场","轻微反管制","监管主义","国有化","计划经济","完全计划经济"]
 
     document.getElementById("radicality-label").innerHTML = setLabel(moderate, radiArray)
