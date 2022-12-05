@@ -110,11 +110,11 @@ function drawCanvas(ideology, moderate, radical, leftunity, libunity, centralize
     ctx.textAlign="center"
     ctx.fillText("激进轴：" + document.getElementById("radicality-label").innerHTML, 400, 175)
     ctx.fillText("合作轴：" + document.getElementById("co-operation-label").innerHTML, 400, 295)
-    ctx.fillText("所有轴" + document.getElementById("ownership-label").innerHTML, 400, 415)
+    ctx.fillText("所有轴：" + document.getElementById("ownership-label").innerHTML, 400, 415)
     ctx.fillText("世界轴：" + document.getElementById("world-label").innerHTML, 400, 535)
     ctx.fillText("文化轴：" + document.getElementById("culture-label").innerHTML, 400, 655)
     ctx.fillText("反抗轴：" + document.getElementById("rebelliousness-label").innerHTML, 400, 775)
-    ctx.fillText("市场轴" + document.getElementById("markets-label").innerHTML, 400, 895)
+    ctx.fillText("市场轴：" + document.getElementById("markets-label").innerHTML, 400, 895)
 
     document.getElementById("banner").src = c.toDataURL();
 }
