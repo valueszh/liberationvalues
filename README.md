@@ -1,2 +1,2 @@
 # Liberationvalues
-LiberationValues一个针对反威权主义左派的政治测试，旨在为一个人在14种不同的政治价值观上的观点分配百分比。
+LiberationValues是一个针对反威权主义左派的政治测试，旨在为一个人在14种不同的政治价值观上的观点分配百分比。
