@@ -105,7 +105,7 @@ function drawCanvas(ideology, moderate, radical, leftunity, libunity, centralize
     if (planning       > 30) {ctx.fillText(planning + "%", 670, 957.5)}
     ctx.fillStyle=fg
     ctx.font="300 25px Montserrat"
-    ctx.fillText("liberationvalues.github.io", 780, 40)
+    ctx.fillText("valueszh.github.io/liberationvalues", 780, 40)
     ctx.fillText(version, 780, 70)
     ctx.textAlign="center"
     ctx.fillText("激进轴：" + document.getElementById("radicality-label").innerHTML, 400, 175)
